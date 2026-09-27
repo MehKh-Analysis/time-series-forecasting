@@ -10,15 +10,7 @@ Forecasting Delhi's weather (2013–2017) using machine learning on time series 
 - **Models:** XGBoost (lag features), XGBoost (expanding window), Random Forest
 - **Evaluation:** RMSE, MAE, and MAPE
 
-## Results
 
-| Model | RMSE | MAE | MAPE |
-|---|---|---|---|
-| XGBoost (lag features) | | | |
-| XGBoost (expanding window) | | | |
-| Random Forest | | | |
-
-**Key takeaway:** *[one sentence on which model won and why]*
 
 ## Files
 
