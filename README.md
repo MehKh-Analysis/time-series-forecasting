@@ -8,8 +8,8 @@ A collection of forecasting projects applying classical statistical models and m
 
 | Project | Question | Methods | Result |
 |---|---|---|---|
-| [🌦️ Weather forecasting](weather-forecasting/) | Can ML models forecast Delhi's daily weather from its own history? | Lag features, expanding-window validation, XGBoost, Random Forest | *[best model + RMSE/MAPE]* |
-| [🛒 Retail sales forecasting](retail-sales-forecasting/) | What trend and seasonality drive superstore sales, and how well can they be forecast? | Decomposition, SARIMA | *[forecast accuracy]* |
+| [🌦️ Weather forecasting](weather-forecasting/) | Can ML models forecast Delhi's daily weather from its own history? | Lag features, expanding-window validation, XGBoost, Random Forest |
+| [🛒 Retail sales forecasting](retail-sales-forecasting/) | What trend and seasonality drive superstore sales, and how well can they be forecast? | Decomposition, SARIMA |
 
 ## Tech
 
